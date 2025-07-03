@@ -86,7 +86,7 @@ The dashboard segments users by **introvert** and **extrovert** types to discove
 ## 👨‍💻 Author
 
 **Chanu041**  
-📬 Connect with me on [LinkedIn]((https://www.linkedin.com/in/chan-basha-shaik-20b049228/))  
+📬 Connect with me on [LinkedIn]((https://www.linkedin.com/in/chan-basha-shaik-20b049228/) 
 🔗 Explore more projects at: [https://github.com/Chanu041](https://github.com/Chanu041)
 
 ## 📌 License
