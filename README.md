@@ -20,8 +20,6 @@ The dashboard segments users by **introvert** and **extrovert** types to discove
 - Who feels drained after events
 - And more!
 
-> ⚠️ This is **synthetic data** – no real individuals are represented. Generated for ethical experimentation and learning.
-
 ## 📁 Dataset Information
 
 **Source**: Synthetic Personality Dataset by Syncora.ai  
